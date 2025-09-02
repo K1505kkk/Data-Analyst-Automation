@@ -1,14 +1,6 @@
 
 # 🚀 Data + Automation Analyst Roadmap (4 Months)
 
-## 📅 Phase 0: Setup (Aug 30 – Sep 1)
-- [ ] Create GitHub repo `Data-Automation-Analyst`
-- [ ] Set up Notion dashboard (import this doc)
-- [ ] Install: [Python](https://www.python.org/downloads/), [VS Code](https://code.visualstudio.com/), [MySQL](https://dev.mysql.com/downloads/) / [Postgres](https://www.postgresql.org/download/), [Power BI Desktop](https://www.microsoft.com/en-us/download/details.aspx?id=58494) / [Tableau Public](https://public.tableau.com/en-us/s/), [n8n](https://n8n.io/)
-- [ ] Bookmark free resources
-
----
-
 ## 📅 Month 1: Python + SQL Foundations
 
 ### Week 1 (Sep 2 – Sep 8) → **Python Basics**
